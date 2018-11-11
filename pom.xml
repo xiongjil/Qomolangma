@@ -6,7 +6,7 @@
 	<groupId>com.bj.glocloud</groupId>
 	<artifactId>qomolangma</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>Qomolangma</name>
 	<description>Cloud solution for CRM and SRM</description>
